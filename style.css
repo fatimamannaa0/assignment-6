@@ -2,10 +2,6 @@ body {
     color: #333333;
     background-color: #f0f4f8;
 }
-
-
-
-
 .box-1 {
     background-color: #ffcccc;
     height: 150px;
@@ -13,7 +9,6 @@ body {
     padding: 20px 20px 20px 20px;
     margin-left: 50px;
 }
-
 .box-2 {
     background-color: #ccffcc;
     height: 100px;
@@ -22,7 +17,6 @@ body {
     margin-left: 300px;
     margin-top: 50px;
 }
-
 .box-3 {
     background-color: rgb(196, 238, 255);
     height: 20vh;
@@ -30,4 +24,34 @@ body {
     padding: 20px 20px 20px 20px;
     margin-left: 50px;
     margin-top: 30px;
+}
+.word-spacing {
+    word-spacing: 10px;
+    color: #5cb85c;
+}
+.letter-spacing {
+    letter-spacing: 5px;
+    color: #0275d8;
+}
+.text-indent { 
+    text-indent: 30px;
+    color: #6f42c1;
+ }
+ .underlined {
+    text-decoration: underline; 
+    color: #d9534f;
+} 
+.overlined {
+    text-decoration: overline;
+    color: #f0ad4e ;
+} 
+.uppercase {
+    text-transform: uppercase;
+    color: #e83e8c;
+}
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
